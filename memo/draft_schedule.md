@@ -5,10 +5,10 @@
 | 7/4(土)          | OSC Okinawa          | ブース, セミナー | かじやまさん             | http://www.ospn.jp/osc2015-okinawa/               |                                                                 |
 | 8/7(金), 8/8(土) | OSC Kansai@Kyoto     | ブース, セミナー | やまさきさん, 坂井さん？ | http://www.ospn.jp/osc2015-kyoto/                 | 坂井さん: 顔出せたらいいなぁ                                    |
 | 8/20(木)-22(土)  | YAPC::Asia           | セミナー         | yoku0825                 | http://yapcasia.org/2015/                         | yoku0825: CfP結果待ち                                           |
-| 8/22(土)         | OSC島根              | 7/31しめきり     | -                        | http://www.ospn.jp/osc2015-shimane/               |                                                                 |
+| 8/22(土)         | OSC島根              | 7/31しめきり     | -                        | http://www.ospn.jp/osc2015-shimane/               | やまさきさん: 検討中(7月にならないと予定がわからない)           |
 | 9/5(土)          | OSC新潟              | 7/21しめきり     | 坂井さん？               | http://www.ospn.jp/osc2015-niigata/               | 坂井さん: 当日現地入りで1泊検討中                               |
-| 9/19(土)         | OSC広島              | 受付前           | -                        | http://www.ospn.jp/osc2015-hiroshima/             |                                                                 |
+| 9/19(土)         | OSC広島              | 受付前           | -                        | http://www.ospn.jp/osc2015-hiroshima/             | やまさきさん: 検討中                                            |
 | 10/3(土)         | OSC福岡              | 受付前           | 坂井さん行きたい！       | http://www.ospn.jp/osc2015-fukuoka/               |                                                                 |
 | 10/24(土), 25(日)| OSC Tokyo Fall       | 受付前           | たぶんyoku0825           | http://www.ospn.jp/osc2015-fall                   | yoku0825: OOWいくかも？ (期待薄)                                |
 | 10/25-29         | Oracle Open World    | セミナー         | yoku0825                 | https://www.oracle.com/openworld/index.html       | yoku0825: CfP結果出てないけど落ちると思う。落ちたら行けない。。 |
-| 11/14(土)        | OSC徳島              | 受付前           | -                        | http://www.ospn.jp/osc2015-tokushima              | 坂井さん: 少し食指は動いてる                                    |
+| 11/14(土)        | OSC徳島              | 受付前           | -                        | http://www.ospn.jp/osc2015-tokushima              | 坂井さん: 少し食指は動いてる, やまさきさん: 検討中              |
