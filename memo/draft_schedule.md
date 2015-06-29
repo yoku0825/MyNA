@@ -1,12 +1,5 @@
 # よていはみてい
 
-## MyNA・JPUG合同勉強会
-
-* 6/26(金)
-* 共同開催。かじやまさん
-* https://dbstudychugoku.doorkeeper.jp/events/25804
-
-
 ## MySQL勉強会 in 大阪
 
 * 6/30(火)

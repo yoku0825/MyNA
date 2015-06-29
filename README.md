@@ -10,6 +10,7 @@
 
 ## 2015年
 
+* [MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京 - 中国地方DB勉強会 | Doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
 * [MyNA(日本MySQLユーザ会)会 2015年4月 on Zusaar](http://www.zusaar.com/event/13957004)
 
 ## 2014年
