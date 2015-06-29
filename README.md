@@ -15,11 +15,14 @@
 
 ## 2014年
 
+* [MySQL勉強会 in 大阪(第7回) : ATND](https://atnd.org/events/57326)
 * [MyNA(日本MySQLユーザ会)会 2014年10月 : ATND](https://atnd.org/events/57094)
+* [MySQL勉強会 in 大阪(第6回) : ATND](https://atnd.org/events/49005)
 * [MyNA(日本MySQLユーザ会)会 2014年4月 : ATND](https://atnd.org/events/48639)
 
 ## 2013年
 
+* [MySQL勉強会 in 大阪(第5回) : ATND](https://atnd.org/events/44157)
 * [MyNA(日本MySQLユーザ会)会 2013年9月 : ATND](https://atnd.org/events/43746)
 * [MyNA(日本MySQLユーザ会)会 2013年7月 : ATND](https://atnd.org/events/40892)
 * [MyNA(日本MySQLユーザ会)会 2013年3月 : ATND](https://atnd.org/events/37387)
