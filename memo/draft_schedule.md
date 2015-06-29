@@ -29,14 +29,6 @@
 * http://www.ospn.jp/osc2015-kyoto/
 
 
-## YAPC::Asia
-
-* 8/20(木)-22(土)
-* セミナー。yoku0825
-  * 審査待ち(期日不明)
-* http://yapcasia.org/2015/
-
-
 ## OSC島根
 
 * 8/22(土)
