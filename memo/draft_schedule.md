@@ -1,12 +1,5 @@
 # よていはみてい
 
-## MySQL勉強会 in 大阪
-
-* 6/30(火)
-* 主催。やまさきさん
-* https://atnd.org/events/66683
-
-
 ## OSC Okinawa
 
 * 7/4(土)
