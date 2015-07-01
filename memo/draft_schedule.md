@@ -37,6 +37,11 @@
 * http://www.ospn.jp/osc2015-niigata/
 
 
+## いろんなDBの合同勉強会 in 大阪
+
+* 9/5(土)
+
+
 ## OSC広島
 
 * 9/19(土)
