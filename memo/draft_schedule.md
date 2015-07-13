@@ -61,7 +61,7 @@
 
 * 10/24(土), 25(日)
 * 受付前
-  * yoku0825: Oracle Open World行かなかったら行く
+  * yoku0825
 * http://www.ospn.jp/osc2015-fall
 
 
