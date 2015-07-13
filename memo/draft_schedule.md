@@ -1,12 +1,5 @@
 # よていはみてい
 
-## OSC Okinawa
-
-* 7/4(土)
-* ブース, セミナー。かじやまさん
-+ http://www.ospn.jp/osc2015-okinawa/
-
-
 ## OSC Kansai@Kyoto
 
 * 8/7(金), 8/8(土)
