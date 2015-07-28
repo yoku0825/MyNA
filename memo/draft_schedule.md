@@ -34,9 +34,11 @@
 * http://www.ospn.jp/osc2015-niigata/
 
 
-## いろんなDBの合同勉強会 in 大阪
+## 第1回関西DB勉強会
 
 * 9/5(土)
+  * やまさきさん
+* https://kansaidbstudy.doorkeeper.jp/events/28029
 
 
 ## OSC広島
