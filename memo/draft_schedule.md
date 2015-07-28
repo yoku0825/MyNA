@@ -58,8 +58,8 @@
 ## OSC Tokyo Fall
 
 * 10/24(土), 25(日)
-* 受付前
-  * yoku0825
+  * yoku0825予定
+  * 申し込みまだ。8/24(月)しめきり。
 * http://www.ospn.jp/osc2015-fall
 
 
