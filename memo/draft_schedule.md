@@ -1,16 +1,5 @@
 # よていはみてい
 
-## OSC島根
-
-* 8/22(土)
-  * やまさきさん, かじやまさん
-  * 石橋さん からお手伝いの申し込みあり
-
-    * [[mysql 16247] Re: OSC2015-Shimane(8/22) (出展7/31締切)](http://mysql.gr.jp/mysqlml/mysql/msg/16247)
-
-* http://www.ospn.jp/osc2015-shimane/
-
-
 ## MyNA会 2015年8月
 
 * 8/27(木)
@@ -51,8 +40,7 @@
 ## OSC Tokyo Fall
 
 * 10/24(土), 25(日)
-  * yoku0825予定
-  * 申し込みまだ。8/24(月)しめきり。
+  * 土曜日のみ、yoku0825申し込み済み
 * http://www.ospn.jp/osc2015-fall
 
 
