@@ -1,13 +1,5 @@
 # よていはみてい
 
-## MyNA会 2015年8月
-
-* 8/27(木)
-
-  * yoku0825
-  * [MyNA(日本MySQLユーザ会)会 2015年8月 : ATND](https://atnd.org/events/68323)
-
-
 ## OSC新潟
 
 * 9/5(土)
