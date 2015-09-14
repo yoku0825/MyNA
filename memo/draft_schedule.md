@@ -1,19 +1,5 @@
 # よていはみてい
 
-## OSC新潟
-
-* 9/5(土)
-  * ブース, セミナー。坂井さん
-* http://www.ospn.jp/osc2015-niigata/
-
-
-## 第1回関西DB勉強会
-
-* 9/5(土)
-  * やまさきさん
-* https://kansaidbstudy.doorkeeper.jp/events/28029
-
-
 ## OSC広島
 
 * 9/19(土)
