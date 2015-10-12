@@ -1,27 +1,5 @@
 # よていはみてい
 
-## OSC広島
-
-* 9/19(土)
-  * やまさきさん申し込み済み
-* http://www.ospn.jp/osc2015-hiroshima/
-
-
-## OSC福岡
-
-* 10/3(土)
-  * 坂井さん申し込み済み
-  * やまさきさん、予定はっきりしてないけど参加できたらする。
-* http://www.ospn.jp/osc2015-fukuoka/
-
-
-## phpcon 2015
-
-* 10/3(土)
-* yoku0825セミナーあり
-* http://phpcon.php.gr.jp/2015/
-
-
 ## OSC Tokyo Fall
 
 * 10/24(土), 25(日)
