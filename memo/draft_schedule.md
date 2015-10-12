@@ -11,7 +11,7 @@
 
 * 10/30(金) 19:00～21:30
 * 株式会社コロプラ（東京・恵比寿ガーデンプレイスタワー11階）
-* http://www.mysql.gr.jp/mysqlml/mysql/msg/16268
+* http://connpass.com/event/21179/
 
 
 ## OSC徳島
