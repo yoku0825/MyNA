@@ -10,6 +10,7 @@
 
 ## 2015年
 
+* [日本MySQLユーザ会会15周年記念パーティー - connpass](http://connpass.com/event/21179/)
 * [MyNA(日本MySQLユーザ会)会 2015年8月 : ATND](https://atnd.org/events/68323)
 * [MySQL勉強会 in 大阪(第8回) : ATND](https://atnd.org/events/66683)
 * [MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京 - 中国地方DB勉強会 | Doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
