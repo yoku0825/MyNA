@@ -8,6 +8,10 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
+## 2016年
+
+* [第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京 - 中国地方DB勉強会 | Doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/37635)
+
 ## 2015年
 
 * [日本MySQLユーザ会会15周年記念パーティー - connpass](http://connpass.com/event/21179/)
