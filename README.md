@@ -10,6 +10,7 @@
 
 ## 2016年
 
+* [MySQL勉強会 in 大阪(第9回) : ATND](https://atnd.org/events/82628)
 * [MyNA(日本MySQLユーザ会)会 2016年5月 : ATND](https://atnd.org/events/77057)
 * [第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京 - 中国地方DB勉強会 | Doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/37635)
 
