@@ -8,6 +8,10 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
+## 2017年
+
+* [MyNA(日本MySQLユーザ会)会 2017年1月 「インプレス＆ThinkIT出版のMySQL関連書籍プレゼントあり」 : ATND](https://atnd.org/events/84761)
+
 ## 2016年
 
 * [MySQL勉強会 in 大阪(第9回) : ATND](https://atnd.org/events/82628)
