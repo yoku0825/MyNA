@@ -8,8 +8,14 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
+## 2018年
+
+* Not yet opened.
+
 ## 2017年
 
+* [MyNA(日本MySQLユーザ会)会 2017年10月 : ATND](https://atnd.org/events/91275)
+* [MyNA(日本MySQLユーザ会)会 2017年3月 : ATND](https://atnd.org/events/86380)
 * [MyNA(日本MySQLユーザ会)会 2017年1月 「インプレス＆ThinkIT出版のMySQL関連書籍プレゼントあり」 : ATND](https://atnd.org/events/84761)
 
 ## 2016年
