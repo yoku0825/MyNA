@@ -10,7 +10,7 @@
 
 ## 2018年
 
-* Not yet opened.
+* [MyNA(日本MySQLユーザ会)会 2018年7月 : ATND](https://atnd.org/events/98422)
 
 ## 2017年
 
