@@ -8,6 +8,11 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
+## 2020年
+
+- [日本MySQLユーザ会会\(MyNA会\) 2020年7月 \- connpass](https://mysql.connpass.com/event/181516/)
+- [日本MySQLユーザ会\(MyNA\)20周年 & MySQL 25周年イベント \- connpass](https://mysql.connpass.com/event/176630/)
+
 ## 2019年
 
 - [日本MySQLユーザ会会\(MyNA会\) 2019年8月 \- connpass](https://mysql.connpass.com/event/142299/)
