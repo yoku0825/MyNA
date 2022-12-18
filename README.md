@@ -9,6 +9,11 @@
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
 ## 2022年
+- [Club MySQL \#6 ～MySQL Shell for VS Codeで遊んじゃおう](https://mysql.connpass.com/event/259432/)
+- [今夜も生でMySQL\(仮題\) #04](https://mysql.connpass.com/event/260040/)
+- [MySQL Release note でわいわい言う勉強会 8.0.30](https://mysql.connpass.com/event/257178/)
+- [今夜も生でMySQL\(仮題\) #03](https://mysql.connpass.com/event/256519/)
+- [今夜も生でMySQL\(仮題\) #02](https://mysql.connpass.com/event/253621/)
 - [今夜も生でMySQL\(仮題\) #01](https://mysql.connpass.com/event/249897/)
 - [MySQL Release note でわいわい言う勉強会 8.0.29](https://mysql.connpass.com/event/248255/)
 - [MySQL Release note でわいわい言う勉強会 8.0.28](https://mysql.connpass.com/event/239693/)
