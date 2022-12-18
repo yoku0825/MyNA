@@ -8,17 +8,37 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 
-## 2020年
+## 2022年
+- [今夜も生でMySQL\(仮題\) #01](https://mysql.connpass.com/event/249897/)
+- [MySQL Release note でわいわい言う勉強会 8.0.29](https://mysql.connpass.com/event/248255/)
+- [MySQL Release note でわいわい言う勉強会 8.0.28](https://mysql.connpass.com/event/239693/)
 
+## 2021年
+- [MyNA\(日本MySQLユーザ会\) 望年LT大会2021＠オンライン](https://mysql.connpass.com/event/232407/)
+- [MySQL Release note でわいわい言う勉強会 8.0.27](https://mysql.connpass.com/event/228762/)
+- [日本MySQLユーザ会会\(MyNA会\) 2021年07月 \-下位レイヤ勉強会\-](https://mysql.connpass.com/event/216609/)
+- [MySQL Release note でわいわい言う勉強会 8.0.24](https://mysql.connpass.com/event/211696/)
+- [Club MySQL \#5 ～SQLデータベースのセキュリティ](https://mysql.connpass.com/event/208575/)
+- [日本MySQLユーザ会会\(MyNA会\) 2021年03月 \- connpass](https://mysql.connpass.com/event/206370/)
+- [MySQL Release note でわいわい言う勉強会 8.0.23](https://mysql.connpass.com/event/202223/)
+
+
+## 2020年
+- [MyNA\(日本MySQLユーザ会\) 望年LT大会2020＠オンライン](https://mysql.connpass.com/event/196850/)
+- [日本MySQLユーザ会会\(MyNA会\) 2020年11月 \- connpass](https://mysql.connpass.com/event/194600/)
+- [MySQL Release note でわいわい言う勉強会 8.0.22](https://mysql.connpass.com/event/193016/)
+- [MySQL Release note でわいわい言う勉強会 8.0.21](https://mysql.connpass.com/event/184770/)
 - [日本MySQLユーザ会会\(MyNA会\) 2020年7月 \- connpass](https://mysql.connpass.com/event/181516/)
+- [MySQL Release note でわいわい言う勉強会 8.0.20](https://mysql.connpass.com/event/178199/)
 - [日本MySQLユーザ会\(MyNA\)20周年 & MySQL 25周年イベント \- connpass](https://mysql.connpass.com/event/176630/)
 
 ## 2019年
-
+- [MyNA\(日本MySQLユーザ会\) 望年LT大会2019＠赤坂 \- connpass](https://mysql.connpass.com/event/151980/)
 - [日本MySQLユーザ会会\(MyNA会\) 2019年8月 \- connpass](https://mysql.connpass.com/event/142299/)
 
 ## 2018年
 
+- [MyNA\(日本MySQLユーザ会\) 望年LT大会2018＠赤坂 \- connpass](https://mysql.connpass.com/event/110220/)
 * [MyNA(日本MySQLユーザ会)会 2018年7月 : ATND](https://atnd.org/events/98422)
 
 ## 2017年
