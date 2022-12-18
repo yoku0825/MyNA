@@ -46,15 +46,15 @@
 - [MyNA\(日本MySQLユーザ会\) 望年LT大会2018＠赤坂 \- connpass](https://mysql.connpass.com/event/110220/)
 - [Club MySQL \#4 ～周辺知識から理解するMySQL のGIS機能](https://clubmysql.connpass.com/event/96393/)
 - [Club MySQL \#3 ～yoku0825 のつくりかた](https://clubmysql.connpass.com/event/96388/)
-* [MyNA(日本MySQLユーザ会)会 2018年7月 : ATND](https://atnd.org/events/98422)
+- [MyNA(日本MySQLユーザ会)会 2018年7月 : ATND](https://atnd.org/events/98422)
 
 ## 2017年
 
 - [Club MySQL \#2 ～(MySQLの)XProtocolはじめました、Haskellで](https://clubmysql.connpass.com/event/71569/)
-* [MyNA(日本MySQLユーザ会)会 2017年10月 : ATND](https://atnd.org/events/91275)
+- [MyNA(日本MySQLユーザ会)会 2017年10月 : ATND](https://atnd.org/events/91275)
 - [Club MySQL \#1 ～MySQLに Window関数がやってくる！](https://clubmysql.connpass.com/event/69167/)
-* [MyNA(日本MySQLユーザ会)会 2017年3月 : ATND](https://atnd.org/events/86380)
-* [MyNA(日本MySQLユーザ会)会 2017年1月 「インプレス＆ThinkIT出版のMySQL関連書籍プレゼントあり」 : ATND](https://atnd.org/events/84761)
+- [MyNA(日本MySQLユーザ会)会 2017年3月 : ATND](https://atnd.org/events/86380)
+- [MyNA(日本MySQLユーザ会)会 2017年1月 「インプレス＆ThinkIT出版のMySQL関連書籍プレゼントあり」 : ATND](https://atnd.org/events/84761)
 
 ## 2016年
 
