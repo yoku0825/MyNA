@@ -32,6 +32,7 @@
 - [日本MySQLユーザ会会\(MyNA会\) 2021年07月 \-下位レイヤ勉強会\-](https://mysql.connpass.com/event/216609/)
 - [MySQL Release note でわいわい言う勉強会 8.0.24](https://mysql.connpass.com/event/211696/)
 - [Club MySQL \#5 ～SQLデータベースのセキュリティ](https://mysql.connpass.com/event/208575/)
+- [JPUG & MyNA合同勉強会 -PLEASE 2021/4-](https://connpass.com/event/209863/)
 - [日本MySQLユーザ会会\(MyNA会\) 2021年03月 \- connpass](https://mysql.connpass.com/event/206370/)
 - [MySQL Release note でわいわい言う勉強会 8.0.23](https://mysql.connpass.com/event/202223/)
 
