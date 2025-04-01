@@ -7,7 +7,10 @@
 # 一覧
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
-
+## 2025年
+- [MySQL30周年＆MyNA25周年イベント](https://mysql.connpass.com/event/345602/)
+## 2024年
+## 2023年
 ## 2022年
 - [Club MySQL \#6 ～MySQL Shell for VS Codeで遊んじゃおう](https://mysql.connpass.com/event/259432/)
 - [今夜も生でMySQL\(仮題\) #04](https://mysql.connpass.com/event/260040/)
