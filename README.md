@@ -10,7 +10,12 @@
 ## 2025年
 - [MySQL30周年＆MyNA25周年イベント](https://mysql.connpass.com/event/345602/)
 ## 2024年
+- [日本MySQLユーザ会会(MyNA会) 2024年8月オフライン！ LTSが出たぞ祭り](https://mysql.connpass.com/event/325749/)
+- [Club MySQL #7 ～ InnoDBのアーキテクチャをREDOログから理解する](https://mysql.connpass.com/event/325319/)
 ## 2023年
+- [MySQL リリースノートでわいわい言う勉強会 8.0.32](https://mysql.connpass.com/event/276885/)
+- [MySQL リリースノートでわいわい言う勉強会 8.0.31](https://mysql.connpass.com/event/268114/)
+
 ## 2022年
 - [Club MySQL \#6 ～MySQL Shell for VS Codeで遊んじゃおう](https://mysql.connpass.com/event/259432/)
 - [今夜も生でMySQL\(仮題\) #04](https://mysql.connpass.com/event/260040/)
