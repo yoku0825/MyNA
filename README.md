@@ -8,7 +8,7 @@
 
 * `SELECT links FROM myna_kai ORDER BY exhibition_date DESC;`
 ## 2026年
-- [日本MySQLユーザ会会(MyNA会) 2026年04月@オンライン](https://mysql.connpass.com/event/387966/)
+- [日本MySQLユーザ会会(MyNA会) 2026年04月@オンライン](https://mysql.connpass.com/event/387966/) 9.7LTSが出たぞ祭り
 - [日本MySQLユーザ会会(MyNA会) 2026年02月](https://mysql.connpass.com/event/383097/)
 ## 2025年
 - [MyNA(日本MySQLユーザ会) 望年LT大会2025＠新宿](https://mysql.connpass.com/event/376433/)
